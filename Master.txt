@@ -1,7 +1,11 @@
 this is the master branch
 i am going to create line
 this line is added from design branch
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 this is un stashed 
 >>>>>>> parent of 57c97af... trying to revert
+=======
+going to stash this line
+>>>>>>> Stashed changes
