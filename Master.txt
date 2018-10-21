@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 this is the master branch
 i am going to create line
 this line is added from design branch
-
-=======
->>>>>>> parent of be66b21... design updated
